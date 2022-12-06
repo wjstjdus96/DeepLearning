@@ -1,4 +1,4 @@
-# Load Following
+# 젯슨나노를 활용한 Load Following
 > 간략한 프로젝트 소개 문구를 작성합니다.
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
