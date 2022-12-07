@@ -6,7 +6,13 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
+#### 기존 계획
+젯봇에
+
+#### 문제점
+
+#### 최종 결과
+
 
 ```[![이미지 텍스트](스크린샷 이미지)](유투브링크)```
 gif로 움짤 올리기
