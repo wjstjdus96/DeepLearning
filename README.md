@@ -9,8 +9,6 @@
 <img src="https://user-images.githubusercontent.com/4470398/204947699-4feb33cd-ab75-41f6-bedd-10b22eb2e961.gif" width="400" height="280"/>
 
 
-> 주행예시
-
 
 
 #### 차선 데이터를 통해 차선 인식 및 유지
