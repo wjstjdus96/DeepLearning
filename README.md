@@ -1,5 +1,5 @@
-# 젯슨나노를 활용한 Load Following
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# 젯봇을 활용한 자율주행
+> 로드 팔로잉, 충돌회피 기능으로 젯봇이 자율주행할
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
