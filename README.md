@@ -1,15 +1,15 @@
 # 젯봇을 활용한 자율주행
 > 젯봇에 자율주행 기능을 탑재시켜 로드 팔로잉, 충돌회피가 가능하도록 한다.
 
-
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
 #### 기존 계획
-젯봇에
+데이터셋을 학습시켜 젯봇이 스스로 길을 따라가고 장애물이 있는 경우 멈췄다가 장애물이 사라졌을 때 다시 갈 수 있게 만든다.
 
 #### 문제점
+
 
 #### 최종 결과
 
