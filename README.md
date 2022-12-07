@@ -46,3 +46,6 @@ int main(void) {
 학습된 모델로 충돌 회피를 테스트 하는 과정에서 지속적인 카메라 인식 오류가 났고 해결하지 못했다.
 
 > 오류 코드 첨부하기
+
+
+https://github.com/abuelgasimsaadeldin/Jetbot-Road-Following-and-Collision-Avoidance
