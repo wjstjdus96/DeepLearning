@@ -49,6 +49,11 @@ int main(void) {
 
 
 
+## 한계점
+학습된 모델로 충돌 회피를 테스트 하는 과정에서 지속적인 카메라 인식 오류가 났고 해결하지 못했다.
+
+
+
 ## 정보
 이름 – [@트위터 주소](https://twitter.com/dbader_org) – 이메일주소@example.com
 
